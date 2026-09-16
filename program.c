@@ -1,6 +1,22 @@
 #include <stdio.h>
 
 int main() {
-    printf("Bonjour tout le monde !\n");
+    printf("+---------------------\\-------------------------+\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("|                                                |\n");
+    printf("+------------------------------------------------+\n");
     return 0;
 }
